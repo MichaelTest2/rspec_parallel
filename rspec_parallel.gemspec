@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version     = '0.1.1'
   s.date        = '2012-10-15'
   s.summary     = "rspec parallel"
-  s.description = "test test test"
+  s.description = "this is a good description"
   s.authors     = ["Michael Zhang"]
   s.email       = 'zhchshy@hotmail.com'
   s.files       = ["lib/rspec_parallel.rb", "lib/color_helper.rb"]
